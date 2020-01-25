@@ -7,7 +7,6 @@ const students = require('./routes/students');
 const tests = require('./routes/tests');
 
 app.use(bodyParser.json());
-
 app.use(bodyParser.urlencoded({ extended: true }));
 
 app.use(morgan('dev'));
