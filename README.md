@@ -3,6 +3,7 @@ Express and Sequelize Review
 
 ## Objective: Build a fully-functioning CRUD API for 2 models, Students and Tests. Test specs are provided to guide development.
 
+
 ### Details
 
 	- Necessary Models:

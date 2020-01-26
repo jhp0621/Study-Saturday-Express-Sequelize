@@ -18,9 +18,6 @@ const Student = db.define('student', {
         validate: {
             isEmail: true
         }
-    },
-    data: {
-        type: Sequelize.JSON
     }
 });
 
